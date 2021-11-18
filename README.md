@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Pate-mayo-py
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Pate-mayo-py/Pate-mayo-py is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Salut je suis @Pate-mayo-py
+- 👀 Je suis intéressé par la programmation
+- 🌱 J'apprends le Python et le C++
+- 💞️ Je suis en 3éme
+- 📫 Vous pouvez me joindre là : pate.mayo.off@gmail.com
