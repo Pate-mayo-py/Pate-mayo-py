@@ -1,5 +1,5 @@
 - 👋 Salut je suis @Pate-mayo-py
 - 👀 Je suis intéressé par la programmation
-- 🌱 J'apprends le Python et le C++
+- 🌱 J'apprends le Python et le C#
 - 📖 Je suis en 3éme
 - 📫 Vous pouvez me joindre ici : pate.mayo.off@gmail.com
